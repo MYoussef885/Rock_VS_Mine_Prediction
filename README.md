@@ -22,7 +22,7 @@ The goal of the "Rock vs. Mine Prediction" project is to develop a model that ca
 
 To run this project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/rock-vs-mine-prediction.git`
+1. Clone the repository: `gh repo clone MYoussef885/Rock_VS_Mine_Prediction`
 2. Install the required libraries:
 3. Launch the Jupyter Notebook: `jupyter notebook`
 4. Open the `Rock_vs_Mine_Prediction.ipynb` file and run the notebook cells sequentially.
